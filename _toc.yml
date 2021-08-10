@@ -3,3 +3,6 @@
   sections:
     - file: chapters/introduction/demo1
     - file: chapters/introduction/demo2
+- file: chapters/newchapter/firstpg
+  sections:
+    - file: chapters/newchapter/demo3
